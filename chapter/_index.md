@@ -7,6 +7,9 @@ weight: 5
 ---
 
 
-# Some Chapter title
+# {{ replace .Name "-" " " | title }}
+
+allgemeine einleitende Worte ...
+
 
 Lorem Ipsum.
