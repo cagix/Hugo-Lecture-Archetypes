@@ -12,4 +12,4 @@ weight: 5
 allgemeine einleitende Worte ...
 
 
-Lorem Ipsum.
+{{< children description="true" showhidden="true" >}}
